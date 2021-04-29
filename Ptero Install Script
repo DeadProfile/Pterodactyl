@@ -1,0 +1,16 @@
+Pterodactyl Panel Installation Script
+
+"ufw allow 80"
+
+"curl -Lo install.sh https://raw.githubusercontent.com/DeadProfile/Pterodactyl/main/install.sh"
+
+"bash install.sh"
+
+(Select Number 5)
+
+When finished adding panel type command "service wings status"
+
+and than run the command "wings --debug"
+
+Than hit CTRL+C than run command "reboot"
+
